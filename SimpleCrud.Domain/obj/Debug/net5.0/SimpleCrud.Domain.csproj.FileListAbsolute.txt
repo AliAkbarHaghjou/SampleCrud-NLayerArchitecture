@@ -22,3 +22,15 @@ C:\Users\Haghjou\Desktop\NLayer\NLayer\SimpleCrud\SimpleCrud.Domain\obj\Debug\ne
 C:\Users\Haghjou\Desktop\NLayer\NLayer\SimpleCrud\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.dll
 C:\Users\Haghjou\Desktop\NLayer\NLayer\SimpleCrud\SimpleCrud.Domain\obj\Debug\net5.0\ref\SimpleCrud.Domain.dll
 C:\Users\Haghjou\Desktop\NLayer\NLayer\SimpleCrud\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.pdb
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\bin\Debug\net5.0\SimpleCrud.Domain.deps.json
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\bin\Debug\net5.0\SimpleCrud.Domain.dll
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\bin\Debug\net5.0\ref\SimpleCrud.Domain.dll
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\bin\Debug\net5.0\SimpleCrud.Domain.pdb
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.csprojAssemblyReference.cache
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.AssemblyInfoInputs.cache
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.AssemblyInfo.cs
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.dll
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\obj\Debug\net5.0\ref\SimpleCrud.Domain.dll
+F:\Projects\SampleCrud-NLayerArchitecture\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.pdb
