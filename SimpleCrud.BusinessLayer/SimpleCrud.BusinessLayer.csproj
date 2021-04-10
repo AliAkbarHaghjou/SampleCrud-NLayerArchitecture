@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleCrud.DataAccess\SimpleCrud.DataAccess.csproj" />
+    <ProjectReference Include="..\SimpleCrud.Domain\SimpleCrud.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
