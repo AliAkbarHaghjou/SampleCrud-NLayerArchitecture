@@ -15,5 +15,5 @@ This is a simple crud implementation with N-Layer architecture;
 ## How to start it : 
 * First of all, You have to create a database which name is **SimpleCrud**
 * after being sure from creating a database, You have to run this command **dotnet ef --startup-project SimpleCrud.WebApi/SimpleCrud.WebApi.csproj migrations add InitialModel -p SimpleCrud.DataAccess/SimpleCrud.DataAccess.csproj** in the directory where the **SimpleCrud.sln** is located to create the initial migration.
-* at last, run this command **"dotnet ef --startup-project SimpleCrud.WebApi/SimpleCrud.WebApi.csproj database update** in the directory where the **SimpleCrud.sln** is located to create your tables.
+* at last, run this command **dotnet ef --startup-project SimpleCrud.WebApi/SimpleCrud.WebApi.csproj database update** in the directory where the **SimpleCrud.sln** is located to create your tables.
 * Open the project solution with visual studio and **press F5**.
